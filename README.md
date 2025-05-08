@@ -27,8 +27,8 @@
 
 ## 💼 Projets académiques
 
-– 🌸 **Names of Allah** – Un **quiz interactif** permettant de tester les connaissances sur les 99 noms d’Allah, chaque nom étant accompagné de sa signification et explication. Ce projet collaboratif offre une approche éducative pour mieux comprendre et retenir ces noms.  
-🔗 [Voir le projet sur GitHub](https://github.com/m-elhamlaoui/Names_Of_ALLAH)
+-  🌸 **Names of Allah** – Un **quiz interactif** permettant de tester les connaissances sur les 99 noms d’Allah, chaque nom étant accompagné de sa signification et explication. Ce 
+       projet collaboratif offre une approche éducative pour mieux comprendre et retenir ces noms.  🔗 [Voir le projet sur GitHub](https://github.com/m-elhamlaoui/Names_Of_ALLAH)
 - 🔭 **Suiveur solaire biaxe** – Optimisation de l’orientation d’un panneau solaire avec photorésistances et microcontrôleur  
 - 🌡️ **Surveillance environnementale** – Système IoT avec capteurs température/humidité, GSM/GPRS, ThingSpeak  
 - 🚌 **Système prédictif d’arrivée des bus** *(en cours)* – Estimation du temps d’arrivée en temps réel avec GPS et détection d’anomalies

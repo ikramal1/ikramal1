@@ -2,7 +2,7 @@
 
 🎓 Étudiante en 2ᵉ année cycle ingénieur à l’INPT, filière **Systèmes Embarqués et Services Numériques**
 
-🔍 À la recherche d’un stage technique pour Juin - Août 2024
+🔍 À la recherche d’un stage technique pour Juin - Août 2025
 
 🌱 Passionnée par l’**IA embarquée**, les **objets connectés (IoT)** et la **cybersécurité**
 

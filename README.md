@@ -1,8 +1,8 @@
 ## 👋 Salam ! Je suis Ikram Allam
 
-🎓 Étudiante en 2ᵉ année cycle ingénieur à l’INPT, filière **Systèmes Embarqués et Services Numériques**
+🎓 Étudiante en 3ᵉ année cycle ingénieur à l’INPT, filière **Systèmes Embarqués et Services Numériques**
 
-🔍 À la recherche d’un stage technique pour Juin - Août 2025
+🔍 À la recherche d’un stage technique à partir du Février 2026
 
 🌱 Passionnée par l’**IA embarquée**, les **objets connectés (IoT)** et la **cybersécurité**
 
